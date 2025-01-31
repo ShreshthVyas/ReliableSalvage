@@ -1,5 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  experimental: {
+    appDir: true, // Ensure Next.js recognizes the App Router
+  },
   images: {
     domains: ["localhost"],
     remotePatterns: [
@@ -13,3 +16,4 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
+

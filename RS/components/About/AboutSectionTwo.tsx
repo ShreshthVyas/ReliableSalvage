@@ -47,7 +47,7 @@ const AboutSectionTwo = () => {
                   Customer-Focused Support
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Our dedicated support team is always available to assist with any inquiries or issues, ensuring that both buyers and sellers are satisfied with their transactions. Whether you're buying or selling, we're here to help at every step of the way.
+                  Our dedicated support team is always available to assist with any inquiries or issues, ensuring that both buyers and sellers are satisfied with their transactions. Whether you are buying or selling, we are here to help at every step of the way.
                 </p>
               </div>
             </div>
